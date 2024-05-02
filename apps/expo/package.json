@@ -1,7 +1,7 @@
 {
   "name": "@monorepo/app",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "src/index.ts",
   "private": true,
   "scripts": {
     "android": "expo start --android",
